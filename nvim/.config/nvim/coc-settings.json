@@ -1,0 +1,16 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": ["css", "html", "javascript", "javascriptreact", "typescript", "typescriptreact"],
+  "eslint.filetypes": [
+      "javascript",
+      "typescript",
+      "typescriptreact",
+      "javascriptreact"
+  ],
+  "eslint.options" : {
+      "env": {
+          "browser": true,
+          "node": true
+      }
+  }
+
+}
